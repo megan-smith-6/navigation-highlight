@@ -9,4 +9,13 @@ html {
 
 h1 {
   font-family: 'Sigmar One', sans-serif;
+  color: #cc1465;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
 }
