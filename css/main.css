@@ -53,3 +53,10 @@ h2 {
   font-size: 1.875rem;
   color: #b20953;
 }
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 30em;
+  text-align: center;
+}
