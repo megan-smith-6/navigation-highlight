@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 Georgia, serif;
+  color: #2f2d13;
 }
 
 *, *::before, *::after {
@@ -58,4 +59,8 @@ img {
   width: 100%;
   max-width: 30em;
   text-align: center;
+}
+
+.nav .current {
+  background-color: #b20953;
 }
