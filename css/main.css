@@ -52,6 +52,11 @@ h2 {
   font-family: 'Sigmar One', sans-serif;
   font-size: 1.875rem;
   color: #b20953;
+  margin: .3em;
+}
+
+p {
+  margin: .3em;
 }
 
 img {
