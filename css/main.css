@@ -14,6 +14,7 @@ body {
 
 header {
   background-color: #ffe500;
+  padding: .2em;
 }
 
 h1 {
@@ -62,7 +63,6 @@ p {
 img {
   display: block;
   width: 100%;
-  max-width: 30em;
   text-align: center;
 }
 
