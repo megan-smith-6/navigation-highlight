@@ -65,9 +65,16 @@ img {
 }
 
 main {
-  margin: .5em;
+  margin: 1em;
 }
 
 .nav .current {
   background-color: #b20953;
+}
+
+footer {
+  display: block;
+  background-color: #ffe500;
+  text-align: center;
+  padding: .75em;
 }
