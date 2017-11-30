@@ -14,11 +14,12 @@ body {
 
 header {
   background-color: #ffe500;
-  padding: .2em;
+  padding: .3em;
+  margin: 0;
 }
 
 h1 {
-  font-family: 'Sigmar One', sans-serif;
+  font-family: "Sigmar One", sans-serif;
   color: #b20953;
   font-size: 3rem;
   text-align: center;
@@ -43,27 +44,28 @@ h1 {
   padding: .2em .5em .3em;
   background-color: #b2a212;
   border-radius: 4px;
+  font-size: 1.125rem;
 }
 
-nav a:hover{
+nav a:hover {
   background-color: #cc1465;
 }
 
 h2 {
-  font-family: 'Sigmar One', sans-serif;
+  font-family: "Sigmar One", sans-serif;
   font-size: 1.875rem;
   color: #b20953;
-  margin: .3em;
-}
-
-p {
-  margin: .3em;
+  margin: .5em 0;
 }
 
 img {
   display: block;
   width: 100%;
   text-align: center;
+}
+
+main {
+  margin: .5em;
 }
 
 .nav .current {
